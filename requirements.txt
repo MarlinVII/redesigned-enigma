@@ -1,0 +1,10 @@
+opencv-python
+numpy
+# onnxruntime-gpu
+onnxruntime
+scapy
+photon-packet-parser
+pynput
+pywin32
+pillow
+pyautogui
